@@ -229,16 +229,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/andrenevesgomes/fugitive-button/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/andrenevesgomes/fugitive-button/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/andrenevesgomes/fugitive-button/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/andrenevesgomes/fugitive-button/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/andrenevesgomes/fugitive-button/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/andrenevesgomes/Catch-The-Button.svg?style=for-the-badge
+[contributors-url]: https://github.com/andrenevesgomes/Catch-The-Button/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/andrenevesgomes/Catch-The-Button.svg?style=for-the-badge
+[forks-url]: https://github.com/andrenevesgomes/Catch-The-Button/network/members
+[stars-shield]: https://img.shields.io/github/stars/andrenevesgomes/Catch-The-Button.svg?style=for-the-badge
+[stars-url]: https://github.com/andrenevesgomes/Catch-The-Button/stargazers
+[issues-shield]: https://img.shields.io/github/issues/andrenevesgomes/Catch-The-Button.svg?style=for-the-badge
+[issues-url]: https://github.com/andrenevesgomes/Catch-The-Button/issues
+[license-shield]: https://img.shields.io/github/license/andrenevesgomes/Catch-The-Button.svg?style=for-the-badge
+[license-url]: https://github.com/andrenevesgomes/Catch-The-Button/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/andreneves-gomes
 [product-screenshot]: images/screenshot.png
