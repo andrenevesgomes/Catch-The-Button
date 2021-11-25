@@ -62,7 +62,7 @@
 ## About The Project
 ![Product Name Screen Shot](https://user-images.githubusercontent.com/48434290/143432715-9d63964d-80d4-48a3-b36f-0fc1b82fe8ce.gif)
 
-Catch The Button is a project where you are challenged to, _literally_, catch the button!. 
+Catch The Button is a project where you are challenged to, _literally_, catch the button! 
 If you're fast enough to click on it, you will be redirected to a special page 😁.
 
 #### **Pro tip:** The smaller the screen, the faster you'll catch it 😉
@@ -73,7 +73,7 @@ If you're fast enough to click on it, you will be redirected to a special page �
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Major frameworks/libraries used to bootstrap the project.
 
 * [Anime.js](https://animejs.com/)
 * [JQuery](https://jquery.com)
@@ -102,7 +102,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -123,8 +123,6 @@ Project Link: [https://github.com/andrenevesgomes/Catch-The-Button](https://gith
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://listemoji.com/cheat-sheet)
@@ -150,4 +148,3 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/andrenevesgomes/Catch-The-Button/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/andreneves-gomes
-[product-screenshot]: images/screenshot.png
