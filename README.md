@@ -27,7 +27,7 @@
   <h3 align="center">Catch The Button!</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A project where you are challenged to, literally, catch the button!
     <br />
     <a href="https://github.com/andrenevesgomes/Catch-The-Button">View Demo</a>
     ·
