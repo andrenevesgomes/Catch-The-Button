@@ -60,8 +60,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![Product Name Screen Shot](https://user-images.githubusercontent.com/48434290/143426077-6ba98eb7-3103-4fbb-a8ee-b378e0f919f1.png)
+![Product Name Screen Shot](https://user-images.githubusercontent.com/48434290/143432715-9d63964d-80d4-48a3-b36f-0fc1b82fe8ce.gif)
 
 Catch The Button is a project where you are challenged to, _literally_, catch the button!. 
 If you're fast enough to click on it, you will be redirected to a special page 😁.
