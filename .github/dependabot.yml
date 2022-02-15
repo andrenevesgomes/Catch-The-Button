@@ -6,7 +6,7 @@
 version: 2
 updates:
   - package-ecosystem: "nuget" # See documentation for possible values
-    directory: "/NaturalCarnes_Leiloes/" # Location of package manifests
+    directory: "/Assets/" # Location of package manifests
     schedule:
       interval: "daily" 
       timezone: "Europe/Lisbon"
