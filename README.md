@@ -65,7 +65,7 @@
 Catch The Button is a project where you are challenged to, _literally_, catch the button! 
 If you're fast enough to click on it, you will be redirected to a special page 😁.
 
-#### **Pro tip:** The smaller the screen, the faster you'll catch it 😉
+<sub> **Pro tip:** The smaller the screen, the faster you'll catch it 😉</sub>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
